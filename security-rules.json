@@ -1,4 +1,4 @@
-// These are your firebase security rules - put them in the "Security & Rules" tab of your database
+// Firebase Security Rules - for Security and Rules tab of database
 {
   "rules": {
     // won't let people delete an existing room
